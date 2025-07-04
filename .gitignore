@@ -179,3 +179,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+/Users/santiagomaestri/Desktop/LEDE/Project/Final/Ole-Recomendados/Offer_daily_2025-07-04_11-10.csv

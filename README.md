@@ -25,4 +25,6 @@ The information to be published in the future should be done like a/b testing, a
 
 Python, Jupyter Notebook, Pandas, Scraping and HTML, made me enhance the experience of this kind of data analysis, it took it to a whole new level so I can understand it better. Usually I did Excel, but now this is much faster, although it might take some time in the set up, it allows automatation, which in the ends, delivers better results. This opens many opportunities too.
 
-The Offer_daily.ipynb shows how the scraping and filtering was done, generating different files according to the filter. Ma
+The Offer_daily.ipynb shows how the scraping and filtering was done, generating different files according to the filter. Then, I also did Topbrands.ipynb, for extra filtering, in that case, the most discounted items (which I didn't use for the final release), and then to find notebooks, which was the best wanted products in Mercadolibre's Trend section: tendencias.mercadolibre.com.ar.
+
+The idea in the future is to connect to their API and obtain the keywords that make the filtering.
